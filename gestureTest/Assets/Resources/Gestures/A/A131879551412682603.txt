@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "A">
+	<Stroke>
+		<Point X = "964.8503" Y = "122.8742" T = "0" Pressure = "0" />
+		<Point X = "977.7844" Y = "200.479" T = "0" Pressure = "0" />
+		<Point X = "987.485" Y = "378.3234" T = "0" Pressure = "0" />
+		<Point X = "997.1856" Y = "523.8323" T = "0" Pressure = "0" />
+		<Point X = "1019.82" Y = "698.4431" T = "0" Pressure = "0" />
+		<Point X = "1055.389" Y = "882.7545" T = "0" Pressure = "0" />
+		<Point X = "1078.024" Y = "979.7605" T = "0" Pressure = "0" />
+		<Point X = "1084.491" Y = "1021.796" T = "0" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "1087.724" Y = "1034.73" T = "0" Pressure = "0" />
+		<Point X = "1097.425" Y = "982.994" T = "0" Pressure = "0" />
+		<Point X = "1129.76" Y = "879.5209" T = "0" Pressure = "0" />
+		<Point X = "1175.03" Y = "730.7784" T = "0" Pressure = "0" />
+		<Point X = "1191.198" Y = "666.1078" T = "0" Pressure = "0" />
+		<Point X = "1217.066" Y = "591.7365" T = "0" Pressure = "0" />
+		<Point X = "1233.234" Y = "520.5988" T = "0" Pressure = "0" />
+		<Point X = "1242.934" Y = "462.3952" T = "0" Pressure = "0" />
+		<Point X = "1242.934" Y = "329.8203" T = "0" Pressure = "0" />
+		<Point X = "1242.934" Y = "307.1856" T = "0" Pressure = "0" />
+		<Point X = "1242.934" Y = "297.485" T = "0" Pressure = "0" />
+		<Point X = "1242.934" Y = "297.485" T = "0" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "1023.054" Y = "517.3652" T = "0" Pressure = "0" />
+		<Point X = "1052.156" Y = "540" T = "0" Pressure = "0" />
+		<Point X = "1097.425" Y = "569.1018" T = "0" Pressure = "0" />
+		<Point X = "1136.228" Y = "588.503" T = "0" Pressure = "0" />
+		<Point X = "1194.431" Y = "614.3713" T = "0" Pressure = "0" />
+		<Point X = "1223.533" Y = "624.0718" T = "0" Pressure = "0" />
+		<Point X = "1230" Y = "624.0718" T = "0" Pressure = "0" />
+		<Point X = "1230" Y = "624.0718" T = "0" Pressure = "0" />
+		<Point X = "1230" Y = "624.0718" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

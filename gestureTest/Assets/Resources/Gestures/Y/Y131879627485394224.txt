@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Y">
+	<Stroke>
+		<Point X = "777.3054" Y = "915.0898" T = "0" Pressure = "0" />
+		<Point X = "777.3054" Y = "915.0898" T = "0" Pressure = "0" />
+		<Point X = "790.2396" Y = "911.8563" T = "0" Pressure = "0" />
+		<Point X = "825.8084" Y = "892.4551" T = "0" Pressure = "0" />
+		<Point X = "893.7126" Y = "837.485" T = "0" Pressure = "0" />
+		<Point X = "906.6467" Y = "805.1497" T = "0" Pressure = "0" />
+		<Point X = "929.2814" Y = "769.5808" T = "0" Pressure = "0" />
+		<Point X = "945.4491" Y = "737.2455" T = "0" Pressure = "0" />
+		<Point X = "961.6168" Y = "714.6108" T = "0" Pressure = "0" />
+		<Point X = "971.3174" Y = "701.6766" T = "0" Pressure = "0" />
+		<Point X = "974.5509" Y = "698.4431" T = "0" Pressure = "0" />
+		<Point X = "974.5509" Y = "698.4431" T = "0" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "1094.192" Y = "960.3593" T = "0" Pressure = "0" />
+		<Point X = "1094.192" Y = "960.3593" T = "0" Pressure = "0" />
+		<Point X = "1094.192" Y = "960.3593" T = "0" Pressure = "0" />
+		<Point X = "1094.192" Y = "957.1257" T = "0" Pressure = "0" />
+		<Point X = "1090.958" Y = "947.4252" T = "0" Pressure = "0" />
+		<Point X = "1065.09" Y = "850.4191" T = "0" Pressure = "0" />
+		<Point X = "993.9521" Y = "675.8083" T = "0" Pressure = "0" />
+		<Point X = "964.8503" Y = "617.6048" T = "0" Pressure = "0" />
+		<Point X = "929.2814" Y = "552.9341" T = "0" Pressure = "0" />
+		<Point X = "874.3114" Y = "459.1617" T = "0" Pressure = "0" />
+		<Point X = "799.9401" Y = "333.0539" T = "0" Pressure = "0" />
+		<Point X = "722.3353" Y = "187.5449" T = "0" Pressure = "0" />
+		<Point X = "667.3653" Y = "90.53891" T = "0" Pressure = "0" />
+		<Point X = "660.8983" Y = "67.90418" T = "0" Pressure = "0" />
+		<Point X = "660.8983" Y = "67.90418" T = "0" Pressure = "0" />
+		<Point X = "660.8983" Y = "67.90418" T = "0" Pressure = "0" />
+		<Point X = "660.8983" Y = "67.90418" T = "0" Pressure = "0" />
+		<Point X = "660.8983" Y = "67.90418" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

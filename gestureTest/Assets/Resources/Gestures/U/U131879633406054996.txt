@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "U">
+	<Stroke>
+		<Point X = "1048.922" Y = "769.5808" T = "0" Pressure = "0" />
+		<Point X = "1048.922" Y = "756.6467" T = "0" Pressure = "0" />
+		<Point X = "1045.689" Y = "688.7425" T = "0" Pressure = "0" />
+		<Point X = "1045.689" Y = "620.8383" T = "0" Pressure = "0" />
+		<Point X = "1045.689" Y = "552.9341" T = "0" Pressure = "0" />
+		<Point X = "1045.689" Y = "514.1317" T = "0" Pressure = "0" />
+		<Point X = "1068.323" Y = "452.6946" T = "0" Pressure = "0" />
+		<Point X = "1087.725" Y = "446.2275" T = "0" Pressure = "0" />
+		<Point X = "1107.126" Y = "442.994" T = "0" Pressure = "0" />
+		<Point X = "1126.527" Y = "436.5269" T = "0" Pressure = "0" />
+		<Point X = "1132.994" Y = "436.5269" T = "0" Pressure = "0" />
+		<Point X = "1152.395" Y = "439.7605" T = "0" Pressure = "0" />
+		<Point X = "1175.03" Y = "449.4611" T = "0" Pressure = "0" />
+		<Point X = "1220.299" Y = "468.8623" T = "0" Pressure = "0" />
+		<Point X = "1255.868" Y = "494.7305" T = "0" Pressure = "0" />
+		<Point X = "1275.269" Y = "510.8982" T = "0" Pressure = "0" />
+		<Point X = "1288.204" Y = "533.533" T = "0" Pressure = "0" />
+		<Point X = "1301.138" Y = "556.1677" T = "0" Pressure = "0" />
+		<Point X = "1330.24" Y = "607.9042" T = "0" Pressure = "0" />
+		<Point X = "1365.808" Y = "675.8083" T = "0" Pressure = "0" />
+		<Point X = "1381.976" Y = "711.3773" T = "0" Pressure = "0" />
+		<Point X = "1398.144" Y = "740.4791" T = "0" Pressure = "0" />
+		<Point X = "1401.377" Y = "763.1138" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "776.0479" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "805.1497" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "827.7844" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "831.0179" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "831.0179" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "831.0179" T = "0" Pressure = "0" />
+		<Point X = "1404.611" Y = "831.0179" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

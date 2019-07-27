@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "A">
+	<Stroke>
+		<Point X = "725.5689" Y = "145.509" T = "0" Pressure = "0" />
+		<Point X = "767.6048" Y = "294.2515" T = "0" Pressure = "0" />
+		<Point X = "880.7784" Y = "569.1018" T = "0" Pressure = "0" />
+		<Point X = "984.2515" Y = "730.7784" T = "0" Pressure = "0" />
+		<Point X = "1068.323" Y = "847.1856" T = "0" Pressure = "0" />
+		<Point X = "1090.958" Y = "882.7545" T = "0" Pressure = "0" />
+		<Point X = "1097.425" Y = "895.6886" T = "0" Pressure = "0" />
+		<Point X = "1097.425" Y = "895.6886" T = "0" Pressure = "0" />
+		<Point X = "1097.425" Y = "895.6886" T = "0" Pressure = "0" />
+		<Point X = "1097.425" Y = "895.6886" T = "0" Pressure = "0" />
+		<Point X = "1126.527" Y = "785.7485" T = "0" Pressure = "0" />
+		<Point X = "1165.329" Y = "614.3713" T = "0" Pressure = "0" />
+		<Point X = "1187.964" Y = "491.497" T = "0" Pressure = "0" />
+		<Point X = "1197.665" Y = "433.2934" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "413.8922" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "407.4251" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "404.1916" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "404.1916" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "404.1916" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "404.1916" T = "0" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "990.7186" Y = "565.8683" T = "0" Pressure = "0" />
+		<Point X = "1058.623" Y = "591.7365" T = "0" Pressure = "0" />
+		<Point X = "1123.293" Y = "620.8383" T = "0" Pressure = "0" />
+		<Point X = "1162.096" Y = "637.006" T = "0" Pressure = "0" />
+		<Point X = "1165.329" Y = "640.2395" T = "0" Pressure = "0" />
+		<Point X = "1165.329" Y = "640.2395" T = "0" Pressure = "0" />
+		<Point X = "1181.497" Y = "646.7066" T = "0" Pressure = "0" />
+		<Point X = "1200.898" Y = "649.9401" T = "0" Pressure = "0" />
+		<Point X = "1213.832" Y = "656.4072" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>
